@@ -7,11 +7,11 @@ export default function Footer() {
         <div className="grid gap-10 lg:grid-cols-[1.2fr_1fr]">
           <div className="flex flex-col gap-4">
             <h2 className="text-2xl font-semibold text-amethyst-smoke-950">
-              Sua primeira loja com IA, em minutos
+              Sua primeira loja gerenciada com IA
             </h2>
             <p className="text-sm text-muted-foreground">
-              Gere relatorios automaticos, entenda o comportamento do seu
-              publico e aprimore suas vendas com o poder das inteligencias
+              Gere relatórios automáticos, entenda o comportamento do seu
+              público e aprimore suas vendas com o poder das inteligências
               artificiais.
             </p>
             <div className="flex flex-wrap gap-3 text-xs uppercase tracking-wider text-amethyst-smoke-700">
@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="grid gap-8 sm:grid-cols-2">
             <div className="flex flex-col gap-3">
               <span className="text-sm font-semibold text-amethyst-smoke-900">
-                Repositorios
+                Repositórios
               </span>
               <div className="flex flex-col gap-2 text-sm text-amethyst-smoke-800">
                 <a
